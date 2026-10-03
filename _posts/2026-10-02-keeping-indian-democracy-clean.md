@@ -3,11 +3,6 @@ title: "Keeping Indian Democracy Clean: Power, Pragmatism, and the Future of Ele
 categories: [Portal]
 ---
 
-# Keeping Indian Democracy Clean
-### Power, Pragmatism, and the Future of Electoral Cleansing
-
----
-
 When you look at global democracies, India stands out. While voter turnout in many Western countries struggles and public trust in institutions cracks, Indian elections are vibrant, massive, and deeply participatory. Millions of everyday citizens turn out to vote, proving that democracy here isn't just an idea—it is a daily reality.
 
 Behind that success is one of our most vital institutions: the **Election Commission of India (ECI)**. For decades, a strong and active EC has been the bedrock protecting the world's largest democratic exercise. But maintaining a system of this scale requires confronting hard truths about administrative maintenance, database integrity, and the courage to break away from comfortable inaction.
