@@ -1,5 +1,5 @@
 ---
-title: Artha | ಅರ್ಥ
+title: "Artha | ಅರ್ಥ"
 icon: fas fa-briefcase
 order: 1
 ---

@@ -1,5 +1,5 @@
 ---
-title: Tantra | ತಂತ್ರ
+title: "Tantra | ತಂತ್ರ"
 icon: fas fa-gears
 order: 2
 ---

@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-circle-info
-order: 21
+order: 20
 ---
 
 # New Roots | ಹೊಸ ಬೇರು
@@ -28,7 +28,7 @@ The name represents ideas that do not merely join existing branches. They establ
 
 ## What We Publish
 
-New Roots organizes its work across four broad domains. The domains are distinguished not merely by subject, but by the central question an essay asks.
+New Roots organizes its work across four broad domains. These domains are distinguished not merely by subject, but by the central question an essay asks.
 
 ### Artha | ಅರ್ಥ
 
@@ -83,7 +83,7 @@ An essay about artificial intelligence may concern:
 - social responsibilities under Dharma;
 - or underlying theory under Jñāna.
 
-The primary domain is determined by the central question of the article. Additional subjects and perspectives are represented using tags.
+The primary domain is determined by the central question of the article. Secondary subjects and perspectives are represented using tags.
 
 ## Editorial Principles
 
@@ -102,6 +102,54 @@ New Roots values:
 New Roots does not require contributors to agree with its existing essays.
 
 Contributors must make assumptions visible, support factual claims, address credible objections, and treat readers as capable of forming their own judgments.
+
+## Contributing to New Roots
+
+New Roots is currently being developed as an independent publication. Formal submissions are not yet open.
+
+In the future, New Roots may invite carefully developed contributions in English and Kannada.
+
+A contribution should do more than provide commentary. A strong contribution should accomplish at least one of the following:
+
+- define an important problem more precisely;
+- question a foundational assumption;
+- construct a useful framework;
+- connect fields usually examined separately;
+- document a meaningful practical experience;
+- recover and carefully interpret a neglected source;
+- explain an unfamiliar idea clearly;
+- or propose an alternative that can be examined, challenged, or tested.
+
+Unfamiliarity alone is not enough.
+
+A serious contribution must distinguish among:
+
+- documented facts;
+- personal observations;
+- interpretations;
+- analogies;
+- hypotheses;
+- proposals;
+- and predictions.
+
+Contributors should engage credible objections and identify the limits of their arguments.
+
+### Languages
+
+New Roots intends to support writing in:
+
+- English
+- Kannada | ಕನ್ನಡ
+
+Bilingual articles are welcome when both versions preserve the meaning and intellectual character of the work rather than providing a mechanical translation.
+
+### Contributor Rights
+
+Contributors retain copyright in their work unless a different written arrangement is explicitly agreed upon.
+
+Publication on New Roots does not automatically grant unrestricted reuse, republication, adaptation, or commercial rights to third parties.
+
+Detailed submission information will be published when formal submissions open.
 
 ## Founder
 

@@ -1,5 +1,5 @@
 ---
-title: Jñāna | ಜ್ಞಾನ
+title: "Jñāna | ಜ್ಞಾನ"
 icon: fas fa-book-open
 order: 4
 ---

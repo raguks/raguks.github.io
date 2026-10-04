@@ -1,5 +1,5 @@
 ---
-title: Dharma | ಧರ್ಮ
+title: "Dharma | ಧರ್ಮ"
 icon: fas fa-scale-balanced
 order: 3
 ---
@@ -26,9 +26,9 @@ This domain includes:
 
 ## Nīti within Dharma
 
-Nīti is treated as the practical and strategic dimension of Dharma rather than as a separate domain.
+Nīti is the practical and strategic dimension of Dharma, not a separate publication domain.
 
-Nīti includes:
+It includes:
 
 - leadership judgment;
 - policy and statecraft;
@@ -42,4 +42,4 @@ Leadership belongs under Dharma when the central question concerns conduct, resp
 
 Leadership concerned mainly with professional growth, organizational performance, management, or enterprise value may belong under Artha.
 
-Use `Niti` as a tag when practical judgment is an important dimension of an article.
+Use `Niti` as a tag when practical judgment is an important secondary dimension.
