@@ -14,13 +14,15 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Ragu Kattinakere # the main title
+title: "New Roots | ಹೊಸ ಬೇರು"
 
-tagline: Artha • Tantra • Nīti • Dharma • Jñāna - Essays, Frameworks, and Original Thoughts # it will display as the subtitle
+tagline: "Unfamiliar Ideas. Serious Inquiry."
 
-description: >- # used by seo meta and the atom feed
-  Essays, frameworks and original ideas covering engineering leadership, systems thinking, ancient, theatre, science and engineering
-
+description: >-
+  New Roots gives unfamiliar ideas the room to develop, the scrutiny
+  to become stronger, and the freedom to challenge established assumptions.
+  We publish essays and frameworks that offer more than criticism:
+  they must construct, explain, or propose something worth examining.
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://raguks.github.io"
@@ -99,7 +101,7 @@ avatar: /assets/img/avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: /assets/img/avatar.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
