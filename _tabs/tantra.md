@@ -22,6 +22,6 @@ This domain includes:
 - design and implementation;
 - and constructed technical systems.
 
-Science belongs primarily under Jnana when the central question concerns understanding reality or establishing knowledge.
+Science belongs primarily under Jñāna when the central question concerns understanding reality or establishing knowledge.
 
 Scientific tools, computational methods, engineered instruments, and practical applications belong under Tantra.

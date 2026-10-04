@@ -24,11 +24,11 @@ This domain includes:
 - environmental responsibility;
 - and the principles that sustain collective life.
 
-## Niti within Dharma
+## Nīti within Dharma
 
-Niti is treated as the practical and strategic dimension of Dharma.
+Nīti is treated as the practical and strategic dimension of Dharma rather than as a separate domain.
 
-Niti includes:
+Nīti includes:
 
 - leadership judgment;
 - policy and statecraft;
@@ -36,8 +36,10 @@ Niti includes:
 - professional conduct;
 - negotiation;
 - institutional strategy;
-- and the practical application of principles in imperfect conditions.
+- and the practical application of principles under imperfect conditions.
 
 Leadership belongs under Dharma when the central question concerns conduct, responsibility, power, institutions, society, or public life.
 
-Leadership concerned mainly with professional growth, organizational performance, or enterprise value may belong under Artha.
+Leadership concerned mainly with professional growth, organizational performance, management, or enterprise value may belong under Artha.
+
+Use `Niti` as a tag when practical judgment is an important dimension of an article.

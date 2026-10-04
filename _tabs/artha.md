@@ -21,6 +21,6 @@ This domain includes:
 - incentives and value creation;
 - and the stewardship of resources.
 
-Economics belongs primarily under Artha when the central question concerns markets, wealth, employment, trade, productivity, business, or resources.
+Economics belongs primarily under Artha when the central question concerns markets, wealth, employment, trade, business, productivity, or resources.
 
-When an economic question is mainly about justice, regulation, public responsibility, inequality, or social order, it may belong under Dharma instead.
+When an economic question is mainly about justice, regulation, public responsibility, inequality, or social order, it belongs under Dharma.

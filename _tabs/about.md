@@ -1,7 +1,7 @@
 ---
 title: About
 icon: fas fa-circle-info
-order: 8
+order: 21
 ---
 
 # New Roots | ಹೊಸ ಬೇರು
@@ -14,7 +14,9 @@ We publish essays and frameworks that offer more than criticism. They must const
 
 ## Why New Roots?
 
-Many valuable ideas do not fit comfortably within established publications, familiar disciplines, or accepted narratives. Some begin from unusual questions. Others connect fields that are usually kept apart. Some revisit foundational assumptions that have become invisible through familiarity.
+Many valuable ideas do not fit comfortably within established publications, familiar disciplines, or accepted narratives.
+
+Some begin from unusual questions. Others connect fields that are usually kept apart. Some revisit foundational assumptions that have become invisible through familiarity.
 
 An unfamiliar idea is not valuable merely because it is unfamiliar. It must be explained clearly, tested against serious objections, and connected to evidence, experience, or reason.
 
@@ -26,23 +28,62 @@ The name represents ideas that do not merely join existing branches. They establ
 
 ## What We Publish
 
+New Roots organizes its work across four broad domains. The domains are distinguished not merely by subject, but by the central question an essay asks.
+
 ### Artha | ಅರ್ಥ
 
-Professional life, organizations, enterprise, management, economics, careers, and value creation.
+**Work, Enterprise, and Value**
+
+Essays on professional life, careers, management, organizations, enterprise, markets, economics, and the creation and stewardship of value.
+
+Artha asks:
+
+> How do individuals and institutions create, organize, and sustain value?
 
 ### Tantra | ತಂತ್ರ
 
-Engineering, technology, systems, architecture, computation, artificial intelligence, and scientific practice.
+**Systems, Methods, and Technology**
 
-### Nīti | ನೀತಿ
+Essays on engineering, technology, software, architecture, computation, artificial intelligence, systems thinking, tools, methods, and designed processes.
 
-Leadership, professional conduct, institutions, society, governance, responsibility, and public reasoning.
+Tantra asks:
+
+> How do systems work, and how can they be constructed, operated, or transformed?
+
+### Dharma | ಧರ್ಮ
+
+**Conduct, Institutions, and Society**
+
+Essays on responsibility, ethics, leadership, governance, justice, institutions, culture, civic life, social order, and the principles that sustain collective life.
+
+Dharma asks:
+
+> What should guide individuals and institutions, and what enables society to endure?
+
+Nīti is treated as the practical dimension of Dharma. It includes leadership judgment, policy, statecraft, institutional strategy, professional conduct, and decision-making under real-world constraints.
 
 ### Jñāna | ಜ್ಞಾನ
 
-Knowledge, science, mathematics, philosophy, history, culture, civilization, and intellectual inquiry.
+**Knowledge, Science, and Inquiry**
 
-These domains are not rigid compartments. Some of the most valuable ideas emerge where two or more domains meet.
+Essays on science, mathematics, philosophy, history, language, civilization, traditional knowledge, research, and the foundations of human understanding.
+
+Jñāna asks:
+
+> What is true, what does it mean, and how can we know it?
+
+## Where Domains Meet
+
+The domains are distinct, but they are not isolated.
+
+An essay about artificial intelligence may concern:
+
+- technical architecture under Tantra;
+- business consequences under Artha;
+- social responsibilities under Dharma;
+- or underlying theory under Jñāna.
+
+The primary domain is determined by the central question of the article. Additional subjects and perspectives are represented using tags.
 
 ## Editorial Principles
 
@@ -56,9 +97,11 @@ New Roots values:
 - serious engagement with counterarguments;
 - accessible writing without intellectual oversimplification;
 - Indian-rooted perspectives that engage confidently with the modern world;
-- and the freedom to develop ideas across conventional disciplinary boundaries.
+- and freedom to develop ideas across conventional disciplinary boundaries.
 
-New Roots does not require every contributor to agree with its existing essays. Contributors must make assumptions visible, support factual claims, address credible objections, and treat readers as capable of forming their own judgments.
+New Roots does not require contributors to agree with its existing essays.
+
+Contributors must make assumptions visible, support factual claims, address credible objections, and treat readers as capable of forming their own judgments.
 
 ## Founder
 

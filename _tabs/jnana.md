@@ -1,14 +1,14 @@
 ---
-title: Jnana | ಜ್ಞಾನ
+title: Jñāna | ಜ್ಞಾನ
 icon: fas fa-book-open
 order: 4
 ---
 
-# Jnana | ಜ್ಞಾನ
+# Jñāna | ಜ್ಞಾನ
 
 ## Knowledge, Science, and Inquiry
 
-Jnana examines what we know, how we know it, what our concepts represent, and how different traditions of inquiry illuminate reality.
+Jñāna examines what we know, how we know it, what our concepts represent, and how different traditions of inquiry illuminate reality.
 
 This domain includes:
 
@@ -23,6 +23,6 @@ This domain includes:
 - interpretation of texts;
 - and the foundations of human understanding.
 
-Science belongs under Jnana because its primary purpose is to develop, test, and refine knowledge.
+Science belongs under Jñāna because its primary purpose is to develop, test, and refine knowledge.
 
 The engineering applications of science belong under Tantra. The social responsibilities arising from science belong under Dharma. The commercial organization of science may belong under Artha.
