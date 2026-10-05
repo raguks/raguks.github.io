@@ -1,12 +1,12 @@
 ---
-title: "Artha | ಅರ್ಥ"
+title: "Artha | Resources"
 icon: fas fa-briefcase
 order: 1
 ---
 
 # Artha | ಅರ್ಥ
 
-## Work, Enterprise, and Value
+## Resources
 
 Artha examines how people and institutions create, organize, use, and sustain material and professional value.
 

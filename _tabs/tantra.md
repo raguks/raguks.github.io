@@ -1,12 +1,12 @@
 ---
-title: "Tantra | ತಂತ್ರ"
+title: "Tantra | Technology"
 icon: fas fa-gears
 order: 2
 ---
 
 # Tantra | ತಂತ್ರ
 
-## Systems, Methods, and Technology
+## Technology
 
 Tantra examines how systems work, how they fail, and how they can be designed, constructed, operated, or transformed.
 
