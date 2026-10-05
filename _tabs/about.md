@@ -161,7 +161,7 @@ Contributors should engage credible objections and identify the limits of their 
 ElseRoot intends to support writing in:
 
 - English
-- Kannada | ಕನ್ನಡ
+- ಕನ್ನಡ | Kannada
 
 Bilingual articles are welcome when both versions preserve the meaning and intellectual character of the work rather than providing a mechanical translation.
 
@@ -173,11 +173,6 @@ Publication on ElseRoot does not automatically grant unrestricted reuse, republi
 
 Detailed submission information will be published when formal submissions open.
 
-## Founder
-
-ElseRoot was founded by **Ragu Kattinakere** as an independent home for long-form essays and frameworks.
-
-The publication may gradually grow into a contributor-based platform welcoming serious work from other writers.
 
 ## Rights
 
