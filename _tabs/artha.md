@@ -4,9 +4,7 @@ icon: fas fa-briefcase
 order: 1
 ---
 
-# Artha | ಅರ್ಥ
-
-## Resources
+# Artha | ಅರ್ಥ | Resources
 
 Artha examines how people and institutions create, organize, use, and sustain material and professional value.
 

@@ -1,12 +1,10 @@
 ---
-title: "Dharma | Responsibility"
+title: "Dharma | Duties"
 icon: fas fa-scale-balanced
 order: 3
 ---
 
-# Dharma | ಧರ್ಮ
-
-## Responsibility
+# Dharma | ಧರ್ಮ | Duties
 
 Dharma examines what should guide individuals and institutions, what responsibilities arise from power and participation, and what enables society to endure.
 

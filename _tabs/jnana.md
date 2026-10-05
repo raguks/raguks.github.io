@@ -4,9 +4,7 @@ icon: fas fa-book-open
 order: 4
 ---
 
-# Jñāna | ಜ್ಞಾನ
-
-## Inquiry
+# Jñāna | ಜ್ಞಾನ | Inquiry
 
 Jñāna examines what we know, how we know it, what our concepts represent, and how different traditions of inquiry illuminate reality.
 
