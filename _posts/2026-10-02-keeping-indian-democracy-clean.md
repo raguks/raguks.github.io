@@ -3,15 +3,15 @@ title: "Keeping Indian Democracy Clean: Power, Pragmatism, and the Future of Ele
 categories: [Dharma]
 tags: [Niti, Democracy, Institutions]
 ---
-When you look at global democracies, India stands out. While voter turnout in many Western countries struggles and public trust in institutions cracks, Indian elections are vibrant, massive, and deeply participatory. Millions of everyday citizens turn out to vote, proving that democracy here isn't just an idea—it is a daily reality.
+When you look at global democracies, electoral engagement in India standout. While voter turnout in many Western countries struggles and public trust in institutions cracks, Indian elections are vibrant, massive, and deeply participatory. Millions of everyday citizens turn out to vote, proving that democracy isn't just an idea—it is a daily reality.
 
-Behind that success is one of our most vital institutions: the **Election Commission of India (ECI)**. For decades, a strong and active EC has been the bedrock protecting the world's largest democratic exercise. But maintaining a system of this scale requires confronting hard truths about administrative maintenance, database integrity, and the courage to break away from comfortable inaction.
+Behind that success is one of the most vital institutions: the **Election Commission of India (ECI)**. For decades, a strong and active EC has been the bedrock protecting the world's largest democratic exercise. But maintaining a system of this scale requires confronting hard truths about administrative maintenance, database integrity, and the courage to break away from comfortable inaction.
 
 ---
 
 ## 🏛️ The Noise at the Top: What’s Actually Happening?
 
-Recently, headlines have been filled with news about internal disagreements inside the Commission. During a massive national effort called the Special Intensive Revision (SIR) to update voter rolls, two of the Election Commissioners raised formal questions about certain procedures and central database management[cite: 1]. 
+Recently, headlines have been filled with news about internal disagreements inside the Commission. During a massive national effort called the Special Intensive Revision (SIR) to update voter rolls, two of the Election Commissioners raised formal questions about certain procedures and central database management[cite: 1].
 
 Naturally, external media outlets and foreign watchdogs love to jump on these internal debates, painting a distorted picture of institutional collapse to portray India's democratic framework in a negative light. But anyone who understands how a massive administrative body works knows that healthy institutions have debates, discussions, and differing views. **The real question isn't whether commissioners disagree on procedure; the real question is what problem they are trying to solve.**
 
