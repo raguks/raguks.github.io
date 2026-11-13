@@ -1,0 +1,22 @@
+---
+title: "Laying RIP to rest - in peace!"
+date: 2014-08-22
+author: "Ragu Kattinakere"
+tags: ["culture", "language", "tradition", "thought-slot"]
+---
+
+> **Note:** [https://tinyurl.com/original-rip](https://tinyurl.com/original-rip) — This is the original blog post written in 2014 that led a lot of Indians to change from RIP to other Indian phrases. This blog was copied and expanded by Shankanad and later on went viral on Facebook and WhatsApp through various people. Thanks to all of them.
+
+It has become a fashion to tweet and write RIP aka - may his/her soul Rest In Peace. I see a problem: the problem of copying usages in other languages and traditions in perfect disharmony with the culture we grow up in. The words related to life events such as birth and death reflect the character of cultures in some way. I think more care is needed when using words from other languages. I have used the word until now when I realised its true meaning. In a post on this blog before I explained how our use of the word late has distorted the meaning of Kannada words we use. RIP belongs to this class of words but is more damaging to the meaning we intend to convey.
+
+The soul is not an idea originating in Indian traditions. What is the issue? The issue is neither does resting in peace an idea originating in Indian traditions. Christians (Catholics in particular) are supposed to believe souls have eternal life. The endless life in heaven or in hell but no rebirth. Therefore, they engrave RIP on burials of their dead. A wish that the dead will have a peaceful eternal life.
+
+Ideas of soul and *atma* are not the same things. Followers of Indian traditions believe in the release of *atma* and rebirth or *moksha* and *punarjanma*. So the *atma* does not have eternal life but is part of *paramatma* and is released from the cycle of birth and death. So everyone is part of *paramatma* and become part of it after death as well. Importantly, there is a release or escape. There is no eternal life. And this release is possible while one is alive: *jeevanmukti*. Of course, there is heaven and hell but only temporarily. Since souls do not rest we should rather wish that the dead attain *moksha*. "May the dead attain *moksha*" could be an alternative to RIP.
+
+Now all the learned will ask me: "When have you become religious?" To answer them, followers of traditions have no religion. If you call traditions religion as well, there is no way to separate living from religion. I can not stop living so I have to be religious in that sense: the sense of my ancestor's ethos. And for atheists and scientists (since they are in between), it is one thing to believe in God and another to not worry about the cultural heritage. I remain conscious of my cultural heritage and sincerely believe it has more things to offer than "diversity". That is why I clarify things I see and recognise as not in line with our cultural heritage.
+
+A few years ago I received an email informing the death of a very active community member and a founder of the Hindu temple in Saskatoon. The email said they have a memorial service the coming weekend at the Hindu Temple. While expressing condolence, I politely requested that we should use words from Indian traditions for rituals, in this case, the rituals after death. I got a very strange answer. A representative of the temple wrote back, "we try and keep it simple". The reason for keeping it "simple" they said, rituals have a different name depending on which part of India one comes from. I have no doubt in my mind about the intentions of the organisers. They are well-meaning and do community work as a service. But, I think creating awareness about the impact of the liberal use of words on Indian traditions may help. If husband and wife do not agree on which of two channels to watch, will watching a third channel serve the purpose of either of them?
+
+I am all for the use of other languages and ideas. Use RIP if you really mean what Christians mean when they say RIP. But otherwise, I wish may the RIP attain *moksha*. If we continue to use it without fully understanding its meaning we will destroy diversity so passionately claimed to be promoted by "liberals". In any case, we, at least, want to get what we say right, never mind the words.
+
+— **Ragu Kattinakere**
